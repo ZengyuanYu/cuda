@@ -1,4 +1,3 @@
-#include <cuda_device_runtime_api.h>
 #include <math.h>
 #include <stdio.h>
 
